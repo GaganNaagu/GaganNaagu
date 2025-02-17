@@ -1,6 +1,26 @@
-# 💫 About Me:
-👋 Hi, I’m Gagan S G!<br>I’m a second-year student passionate about app development and game development. I enjoy exploring new technologies and challenging myself to continuously learn and grow.<br><br>🌱 I’m currently focusing on Flutter for mobile app development and building my skills in Python and C++. Alongside this, I’m working on mastering Data Structures and Algorithms (DSA) to improve my problem-solving abilities.<br><br>💡 While app and game development are my main focus areas, I also have a side interest in cybersecurity, which I plan to explore further as I advance.<br><br>🔭 I’m excited to collaborate on projects and connect with others in the tech community!<br><br>💬 Feel free to reach out if you’d like to share ideas, collaborate, or offer tips!<br><br>📫 You can contact me via email at GaganSG1908@gmail.com or connect with me on Instagram here.
+Here's an updated **GitHub "About Me"** section based on your new goals and interests:  
 
+---
+
+# 💫 About Me  
+👋 Hi, I’m **Gagan S G (Naagu)!**  
+I’m a second-year Computer Science student passionate about **full-stack development, game development, and 3D design.** I love solving problems, experimenting with new technologies, and building real-world applications.  
+
+### 🚀 What I’m Currently Learning  
+- **Full-Stack Development**: Diving into **web development** (Frontend & Backend) to become a full-stack developer.  
+- **Blender & 3D Design**: Creating custom assets for games and FiveM roleplay servers.  
+- **Data Structures & Algorithms (DSA)**: Strengthening problem-solving skills for better efficiency.  
+
+### 🔥 Interests & Future Goals  
+- 🌍 **Full-Stack Development** – Mastering frontend, backend, and deployment.  
+- 🎮 **Game Development** – Exploring interactive experiences and AI-powered tools.  
+- 🔐 **Cybersecurity** – A side interest I plan to explore further.  
+
+### 💬 Let’s Connect!  
+📫 **Email:** GaganSG1908@gmail.com  
+📷 **Instagram:** [gagan_veerashaiva](https://www.instagram.com/gagan_veerashaiva/profilecard/?igsh=cGhqd2N1aWZ4N2g=)  
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gagan_veerashaiva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-s-g-58545b294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
