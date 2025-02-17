@@ -1,7 +1,3 @@
-Here's an updated **GitHub "About Me"** section based on your new goals and interests:  
-
----
-
 # 💫 About Me  
 👋 Hi, I’m **Gagan S G (Naagu)!**  
 I’m a second-year Computer Science student passionate about **full-stack development, game development, and 3D design.** I love solving problems, experimenting with new technologies, and building real-world applications.  
