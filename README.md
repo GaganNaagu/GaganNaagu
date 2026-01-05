@@ -1,6 +1,6 @@
 # 💫 About Me  
 👋 Hi, I’m **Gagan S G (Naagu)!**  
-I’m a second-year Computer Science student passionate about **full-stack development, game development, and 3D design.** I love solving problems, experimenting with new technologies, and building real-world applications.  
+I’m a third-year Computer Science student passionate about **full-stack development, game development, and 3D design.** I love solving problems, experimenting with new technologies, and building real-world applications.  
 
 ### 🚀 What I’m Currently Learning  
 - **Full-Stack Development**: Diving into **web development** (Frontend & Backend) to become a full-stack developer.  
